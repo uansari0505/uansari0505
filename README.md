@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @uansari0505
 - 👀 I’m interested in FF
-- 🌱 I’m currently learning BSc Comomputer Science
+- 🌱 I’m currently learning BSc Commputer Science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
